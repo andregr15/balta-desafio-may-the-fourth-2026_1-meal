@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MealPlanner.Ai/MealPlanner.Ai.csproj" />
+  <Project Path="MealPlanner.Api/MealPlanner.Api.csproj" />
+  <Project Path="MealPlanner.Core/MealPlanner.Core.csproj" />
+  <Project Path="MealPlanner.Infra/MealPlanner.Infra.csproj" />
+</Solution>
